@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jatin Rathore</h1>
 <h3 align="center">A passionate Frontend Developer from India, proficient in HTML, CSS, JavaScript, and React, with a strong foundation in Java. Experienced in crafting dynamic user interfaces and leading projects utilizing React + TypeScript and MERN stack technologies. Dedicated to creating innovative and user-centric web applications.</h3>
-<img align="right" alt="coding" width="400" src="https://shorturl.at/ikpGQ" />
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinrathore&label=Profile%20views&color=0e75b6&style=flat" alt="jatinrathore" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rathorejatin168@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CRIihurSYV7ZszD5uJimlLGurEgguSz2/view?usp=sharing](https://drive.google.com/file/d/1CRIihurSYV7ZszD5uJimlLGurEgguSz2/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CRIihurSYV7ZszD5uJimlLGurEgguSz2/view?usp=sharing)
 
 - ⚡ Fun fact **I love to play online multiplayer games ;)**
 
