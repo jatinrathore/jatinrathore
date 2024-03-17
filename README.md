@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinrathore&label=Profile%20views&color=0e75b6&style=flat" alt="jatinrathore" /> </p>
 
-- 🔭 I’m currently working on [Scriptly](https://github.com/jatinrathore/Scriptly)
+- 🔭 I’m currently working on [Quizify](https://github.com/jatinrathore/Quizify)
 
 - 🌱 I’m currently learning **Next.js**
 
