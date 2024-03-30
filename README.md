@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rathorejatin168@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CRIihurSYV7ZszD5uJimlLGurEgguSz2/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lJ0RL8LUeA5f2MpRfaeqcBEZ0vtKnvPD/view?usp=sharing)
 
 - ⚡ Fun fact **I love to play online multiplayer games ;)**
 
